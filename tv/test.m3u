@@ -1,44 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="BumblebeeTVNowYouKnow.us" tvg-logo="https://i.imgur.com/78K3L8J.png" group-title="Education",Bumblebee TV Now You Know
-https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
-#EXTINF:-1 tvg-id="BUTV10.us" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="Education",BUTV10
-http://butv10-livestream.bu.edu/live/live.m3u8
-#EXTINF:-1 tvg-id="CCPSEducationChannel.us" tvg-logo="https://i.imgur.com/62S7dI8.png" group-title="Education",CCPS Education Channel
-https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-logo="https://i.imgur.com/rvQdzL1.png" group-title="Education",CreaTV Channel 28
-https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
-#EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="Education;Lifestyle",Doctor
-http://moobl.ru/hls/Doktor.m3u8
-#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="Education;Outdoor;Relax",earthTV
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="Education",Educanal
-https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
-#EXTINF:-1 tvg-id="EducaTV.ec" tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="Education",Educa TV
-https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="Education",Eduvision
-https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Education" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1 tvg-id="IzmailTV.ua" tvg-logo="https://i.imgur.com/CxsUpGz.png" group-title="",Izmail TV
-https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="KBEV.us" tvg-logo="https://i.imgur.com/YFVrphZ.png" group-title="Education",KBEV
-https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
-#EXTINF:-1 tvg-id="KETSDT1.us" tvg-logo="https://i.imgur.com/dNBZLtD.png" group-title="Education",KETS-DT1
-https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
-#EXTINF:-1 tvg-id="KHETDT1.us" tvg-logo="https://i.imgur.com/O5uOeQh.png" group-title="Education",KHET-DT1
-https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
-#EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-logo="https://i.imgur.com/Cy94oLl.png" group-title="Education",Leominster TV Educational
-http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSEast.us" tvg-logo="https://i.imgur.com/vQ7F7zg.png" group-title="Education",PBS East
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="PBSWest.us" tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png" group-title="Education",PBS West
-https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 tvg-id="UChileTV.cl" tvg-logo="https://i.ibb.co/dGpwrLX/UChile-TV-logo-2020.png" group-title="Culture;Education",UChile TV
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten TV Comedy Movies
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten TV Drama Movies
-https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Rakuten TV Family Movies
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canal1" , can1
+https://service-stitcher.clusters.pluto.tv/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8
+
+#EXTINF:-1 tvg-id="canal2" , can2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8
