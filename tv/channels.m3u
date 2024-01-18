@@ -7,7 +7,7 @@
     https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="Culturales" , Identidad TV
     https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://cdn.m3u.cl/logo/691_Exitosa.jpg" group-title="Noticias" , Exitosa TV
+#EXTINF:-1 tvg-id="ExitosaTV.pe"  tvg-logo="https://i.imgur.com/pu0BSB7.png"  group-title="Noticias" , Exitosa TV
     https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Noticias",ATV+
     https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
@@ -21,13 +21,14 @@
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="pluto-Nature.es" channel-id="60dd6b1da79e4d0007309455" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Documentales", Nature Time
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Culturales" , Canal Educação
-    https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Educativos" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-    http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="1507" tvg-name="Chilevisual Cultura" tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="Culturales" , Chilevisual Cultura
+    https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culturales" , Encuentro
+    https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 channel-id="pluto-Documentales.es" tvg-id="61cd7b49543066000713b620" tvg-chno="451" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentales" , Pluto TV Historia
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd7b49543066000713b620/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Culturales" , Canal Educação
+    https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportivos" , DeporTV
     https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
@@ -39,7 +40,7 @@
 #EXTINF:-1 channel-id="pluto-EuroNews.es" tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Noticias" , Euronews (Español)
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Internacional" tvg-name="DW Alemania" , DW Alemania (Deutsch)
-    http://ott-cdn.ucom.am/s26/index.m3u8
+    https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Internacional" tvg-name="DW Alemania" , DW Alemania (Español)
     https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias" , RT (Español)
@@ -55,10 +56,6 @@
 
 #======= Canales Internacionales =======
 #--- España ---
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="España", La 1
-    https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png"  group-title="España", La 2
-    https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="TelemadridINT.es" tvg-logo="https://i.imgur.com/2xRKezH.png" group-title="España",Telemadrid INT
     https://new-international-23.secure2.footprint.net/index.m3u8
 #EXTINF:-1 tvg-id="pluto-Cocina.es" channel-id="5f1acdaa8ba90f0007d5e760" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="España" , Pluto TV Cocina
@@ -73,8 +70,6 @@
 #--- Chile ---
 #EXTINF:-1 tvg-id="1239" tvg-name="Señal Mediabanco" tvg-logo="https://cdn.m3u.cl/logo/1239_Senal_Mediabanco.png" group-title="Chile" , Señal Mediabanco
     https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1507" tvg-name="Chilevisual Cultura" tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="Culturales" , Chilevisual Cultura
-    https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Chile" , NTV
     https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="UChileTV.cl" tvg-logo="https://i.ibb.co/dGpwrLX/UChile-TV-logo-2020.png" group-title="Culturales",UChile TV
@@ -173,16 +168,16 @@
     https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #============ Educativos ===========
-#--- History ---
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culturales" , Encuentro
-    https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Educativos" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+    http://ott-cdn.ucom.am/s37/index.m3u8
+
 #EXTINF:-1 tvg-id="pluto-Documentaries.us" channel-id="5b85a7582921777994caea63" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Documentales" , Pluto TV Documentaries
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="pluto-Documentarios.br" channel-id="5f1ef1a8cec6be00072a7ac9" tvg-chno="566" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Documentales" , Pluto TV Documentários
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="pluto-Misterios.br" channel-id="5fac52f142044f00078e2a51" tvg-chno="545" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Documentales" , Pluto TV Mistérios
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-
 
 #--- Nature ---
 #EXTINF:-1 tvg-id="PlutoTVAnimalsUK.uk" tvg-logo="https://i.imgur.com/KuPue6S.png" group-title="Documentales" , Pluto TV Animals UK
