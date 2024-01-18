@@ -13,23 +13,21 @@
     https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 
 #---Enter---
-#EXTINF:-1 channel-id="pluto-5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-chno="380" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="General" , Cazadores de Tesoros / Pawn Stars
-    https://i.mjh.nz/PlutoTV/15dcde197f6591d0009839e04-alt.m3u8
-#EXTINF:-1 channel-id="pluto-64025592953da40008bf9238" tvg-id="64025592953da40008bf9238" tvg-chno="503" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Autos" , Locos por los Autos
-    https://i.mjh.nz/PlutoTV/164025592953da40008bf9238-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5dd6dc7480e3550009133d4a" tvg-id="5dd6dc7480e3550009133d4a" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Autos" , Velocidad Pluto TV
-    https://i.mjh.nz/PlutoTV/15dd6dc7480e3550009133d4a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-60dd6b1da79e4d0007309455" tvg-id="60dd6b1da79e4d0007309455" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" tvg-chno="456" group-title="Documentales", Nature Time
-    https://i.mjh.nz/PlutoTV/160dd6b1da79e4d0007309455-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-Reality.cl" channel-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="General" , Cazadores de Tesoros / Pawn Stars
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+#EXTINF:-1 tvg-id="pluto-LocosAutos.cl" channel-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Autos" , Locos por los Autos
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+#EXTINF:-1 tvg-id="pluto-Velocidad.cl" channel-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Autos" , Velocidad Pluto TV
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+#EXTINF:-1 tvg-id="pluto-Nature.es" channel-id="60dd6b1da79e4d0007309455" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Documentales", Nature Time
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Culturales" , Canal Educação
     https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Educativos" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
     http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentales" , El Histonauta TV
-    https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-61cd7b49543066000713b620" tvg-id="61cd7b49543066000713b620" tvg-chno="451" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentales" , Pluto TV Historia
-    https://i.mjh.nz/PlutoTV/161cd7b49543066000713b620-alt.m3u8
+#EXTINF:-1 channel-id="pluto-Documentales.es" tvg-id="61cd7b49543066000713b620" tvg-chno="451" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentales" , Pluto TV Historia
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd7b49543066000713b620/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportivos" , DeporTV
     https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
@@ -38,37 +36,33 @@
     https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="España" , Canal 24 Horas
     https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:-1 channel-id="pluto-60d3583ef310610007fb02b1" tvg-id="60d3583ef310610007fb02b1" tvg-chno="650" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Noticias" , Euronews (Español)
-    https://i.mjh.nz/PlutoTV/1619d59b7cbef25000728221c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-EuroNews.es" tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Noticias" , Euronews (Español)
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Internacional" tvg-name="DW Alemania" , DW Alemania (Deutsch)
-    https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+    http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Internacional" tvg-name="DW Alemania" , DW Alemania (Español)
     https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias" , RT (Español)
     https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #========== Otros nacionales ===========
-#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/kSMo53C.png" group-title="Educativos",MINEDU IPTV 1
-    http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 #EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/mbJ1FCQ.png" group-title="Educativos",MINEDU IPTV 2
     http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="EducaTV.ec" tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="Educativos",Educa TV
     https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Noticias",SolTV
-    https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="Noticias",Hispan TV
-    https://live3.presstv.ir/hispantv/index.m3u8
 #EXTINF:-1 tvg-id="690" tvg-name="JN19" tvg-logo="https://cdn.m3u.cl/logo/690_JN19.png" group-title="Religiosos" , JN19
     https://servilive.com:3028/live/jntv19live.m3u8
 
 #======= Canales Internacionales =======
 #--- España ---
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="España", La 1
-    https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+    https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png"  group-title="España", La 2
+    https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="TelemadridINT.es" tvg-logo="https://i.imgur.com/2xRKezH.png" group-title="España",Telemadrid INT
     https://new-international-23.secure2.footprint.net/index.m3u8
-#EXTINF:-1 channel-id="pluto-5f1acdaa8ba90f0007d5e760" tvg-id="5f1acdaa8ba90f0007d5e760" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" tvg-chno="450" group-title="España" , Pluto TV Cocina
-    https://i.mjh.nz/PlutoTV/15f1acdaa8ba90f0007d5e760-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-Cocina.es" channel-id="5f1acdaa8ba90f0007d5e760" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="España" , Pluto TV Cocina
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="España" tvg-name="Negocios TV" , Negocios TV
     https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="RiberaTV.es" tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="España",Ribera TV
@@ -87,8 +81,8 @@
     https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
 #--- Argentina ---
-#EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-chno="690" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="Argentina" , Telefe Noticias
-    https://i.mjh.nz/PlutoTV/15f523aa5523ae000074745ec-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-Telefe.cl" channel-id="5f523aa5523ae000074745ec" tvg-chno="690" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="Argentina" , Telefe Noticias
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Argentina" , El Trece
     https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Argentina",Canal U
@@ -97,8 +91,8 @@
 #---BRS---
 #EXTINF:-1 tvg-id="583" tvg-name="Rede Brasil de Televisao" tvg-logo="https://cdn.m3u.cl/logo/583_Rede_Brasil_de_Televisao.png" group-title="General" , Rede Brasil de Televisão
     https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 channel-id="pluto-619e6614c9d9650007a2b171" tvg-id="619e6614c9d9650007a2b171" tvg-chno="685" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png" group-title="Internacional" , Euronews (Português)
-    https://i.mjh.nz/PlutoTV/1619e6614c9d9650007a2b171-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-Euronews.br" channel-id="619e6614c9d9650007a2b171" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png" group-title="Internacional" , Euronews (Português)
+    https://r.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8
 #EXTINF:-1 tvg-id="559" tvg-name="Canal 29" tvg-logo="https://cdn.m3u.cl/logo/559_Canal_29.png" group-title="General", Canal 29
     https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-id="554" tvg-name="ISTV" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" group-title="General", ISTV
@@ -107,20 +101,16 @@
 #---ENG---
 #EXTINF:-1 tvg-id="SkyN.TV" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="Noticias" tvg-name="Sky News UK" , Sky News UK
     https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
-#EXTINF:-1 channel-id="pluto-5421f71da6af422839419cb3" tvg-id="5421f71da6af422839419cb3" tvg-chno="415" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Noticias" , CNN RePlay
-    https://i.mjh.nz/PlutoTV/15421f71da6af422839419cb3-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-CNN-Headlines.us" channel-id="5421f71da6af422839419cb3" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Noticias" , CNN RePlay
+    https://r.mjh.nz/PlutoTV/5421f71da6af422839419cb3-alt.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="Noticias" , CBS News
     https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Internacional" tvg-name="DW Alemania" , DW (English)
     https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 channel-id="pluto-5fb5844bf5514d0007945bda" tvg-id="5fb5844bf5514d0007945bda" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" tvg-chno="2840" group-title="Otros" , BBC Food
-    https://i.mjh.nz/PlutoTV/15fb5844bf5514d0007945bda-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-BBCFood.us" channel-id="5fb5844bf5514d0007945bda" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" tvg-chno="2840" group-title="Otros" , BBC Food
+    https://r.mjh.nz/PlutoTV/5fb5844bf5514d0007945bda-alt.m3u8
 
 #---OTHER---
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/trthaber/picture?width=200&height=200" group-title="Internacional" tvg-name="TRT Haber Turquía" , TRT Haber Turquía
-    https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/sentvtelevision/picture?width=200&height=200" group-title="Internacional" tvg-name="SenTV Senegal" , SenTV Senegal
-    https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200" group-title="Internacional" tvg-name="Nippon News TV Japan" , Nippon News TV Japan
     https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="Internacional" , BS TV Tokyo
@@ -139,14 +129,13 @@
     https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Series y Películas",Rakuten TV Family Movies
     https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="pluto-5cb0cae7a461406ffe3f5213" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" tvg-chno="210" group-title="Series y Películas" , Paramount Movie Channel
+#EXTINF:-1 tvg-id="pluto-5cb0cae7a461406ffe3f5213" channel-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Series y Películas" , Paramount Movie Channel
     https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=
 
-#EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="18" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Series y Películas" , Pluto TV Cine Sucessos
-    https://i.mjh.nz/PlutoTV/15f120e94a5714d00074576a1-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f1212ad1728050007a523b8" tvg-id="5f1212ad1728050007a523b8" tvg-chno="203" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Series y Películas" , Pluto TV Retrô
-    https://i.mjh.nz/PlutoTV/15f1212ad1728050007a523b8-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-CineSucessos.br" channel-id="5f120e94a5714d00074576a1" tvg-chno="18" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Series y Películas" , Pluto TV Cine Sucessos
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+#EXTINF:-1 tvg-id="pluto-Retro.br" channel-id="5f1212ad1728050007a523b8" tvg-chno="203" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Series y Películas" , Pluto TV Retrô
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 
 #EXTINF:-1 tvg-id="BBCDrama.fr" tvg-logo="https://i.imgur.com/EQZPSZx.png" group-title="Series y Películas",BBC Drama
     https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
@@ -155,8 +144,8 @@
 
 
 #============ Entertainment ============
-#EXTINF:-1 channel-id="pluto-6322099c822bbc00074857db" tvg-id="6322099c822bbc00074857db" tvg-chno="1465" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Otros" , Los Padrinos Mágicos
-    https://i.mjh.nz/PlutoTV/16322099c822bbc00074857db-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-PadrinosMagicos.cl" channel-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Otros" , Los Padrinos Mágicos
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Otros",Pluto TV Toons Clasico
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="Otros",Disney Channel Japan
@@ -164,8 +153,8 @@
 #EXTINF:-1 tvg-id="DisneyJunior.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Otros",Disney Junior Japan
     http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
-#EXTINF:-1 channel-id="pluto-6014761dfb91870008ea6463" tvg-id="6014761dfb91870008ea6463" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="General" , Pluto TV Turbo (Português)
-    https://i.mjh.nz/PlutoTV/16014761dfb91870008ea6463-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-Turbo.br" channel-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="General" , Pluto TV Turbo (Português)
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="Autos" , Top Gear
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-logo="https://i.imgur.com/GGIV06c.png" group-title="Autos" , Auto Motor und Sport
@@ -182,23 +171,18 @@
     https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="Deportivos" tvg-name="Redbull TV" , Redbull TV (English)
     https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Deportivos" , NBA TV
-    http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&stream=749756
-#EXTINF:-1 channel-id="pluto-5e66968a70f34c0007d050be" tvg-id="5e66968a70f34c0007d050be" tvg-chno="2090" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Deportivos" , MLB
-    https://i.mjh.nz/PlutoTV/15e66968a70f34c0007d050be-alt.m3u8
 
 #============ Educativos ===========
 #--- History ---
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culturales" , Encuentro
     https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1 channel-id="pluto-5b85a7582921777994caea63" tvg-id="5b85a7582921777994caea63" tvg-chno="116" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Documentales" , Pluto TV Documentaries
-    https://i.mjh.nz/PlutoTV/15b85a7582921777994caea63-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f1ef1a8cec6be00072a7ac9" tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-chno="566" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Documentales" , Pluto TV Documentários
-    https://i.mjh.nz/PlutoTV/15f1ef1a8cec6be00072a7ac9-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5fac52f142044f00078e2a51" tvg-id="5fac52f142044f00078e2a51" tvg-chno="545" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Documentales" , Pluto TV Mistérios
-    https://i.mjh.nz/PlutoTV/15fac52f142044f00078e2a51-alt.m3u8
-#EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="General",Doctor
-    http://moobl.ru/hls/Doktor.m3u8
+#EXTINF:-1 tvg-id="pluto-Documentaries.us" channel-id="5b85a7582921777994caea63" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Documentales" , Pluto TV Documentaries
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="pluto-Documentarios.br" channel-id="5f1ef1a8cec6be00072a7ac9" tvg-chno="566" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Documentales" , Pluto TV Documentários
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+#EXTINF:-1 tvg-id="pluto-Misterios.br" channel-id="5fac52f142044f00078e2a51" tvg-chno="545" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Documentales" , Pluto TV Mistérios
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+
 
 #--- Nature ---
 #EXTINF:-1 tvg-id="PlutoTVAnimalsUK.uk" tvg-logo="https://i.imgur.com/KuPue6S.png" group-title="Documentales" , Pluto TV Animals UK
@@ -209,18 +193,19 @@
     https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ae7b456c8cf265ce922&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=301&terminate=false&userId=
 
 #--- Science ---
-#EXTINF:-1 channel-id="pluto-563a970aa1a1f7fe7c9daad7" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-chno="1805" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Science" , Pluto TV Science
-    https://i.mjh.nz/PlutoTV/1563a970aa1a1f7fe7c9daad7-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-Science.us" channel-id="563a970aa1a1f7fe7c9daad7" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Science" , Pluto TV Science
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVSpace.us" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Science" , Pluto TV Space
     https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Science" tvg-name="NASA TV Public" , NASA TV Public
     https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Science" tvg-name="NASA TV Media" , NASA TV Media
     https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #======= Canales Musicales =======
-#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="1520" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Música" , Conciertos por Stingray
-    https://i.mjh.nz/PlutoTV/15f85ca40eda1b10007b967cd-alt.m3u8
+#EXTINF:-1 tvg-id="pluto-Conciertos.cl" channel-id="5f85ca40eda1b10007b967cd" tvg-chno="1520" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Música" , Conciertos por Stingray
+    https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="Música" tvg-name="Retro Music TV Chequia" , Retro Music TV
     http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Música" , Now 70s
